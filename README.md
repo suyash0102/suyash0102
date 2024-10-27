@@ -11,11 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka001tech&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka001tech" /> </p>
 
-- 🌱 I’m currently learning **Flutter and NodeJs Development** 
-
-- 🌱 Learning **Data Structure and Alogorithm**
-
-- 🌱 Participate in **CodeChef Contests**
+- 🌱 I’m currently learning **Flutter and FlutterFlow Development** 
 
 - 📫 How to reach me **suyashdahake410@gmail.com**
 
@@ -35,8 +31,8 @@
 
 <code><img src="https://user-images.githubusercontent.com/75165587/132661148-e0ab1572-56bf-4f24-b77e-df45b313c9c4.png" alt="git" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="git" width="40" height="40"/></code>
-<a href="https://logowik.com/content/uploads/images/flutterflow2312.logowik.com.webp" target="_blank"> &nbsp; <img src="https://logowik.com/content/uploads/images/flutterflow2312.logowik.com.webp" alt="javascript" width="40" height="40"/> &nbsp; </a> 
-<a href="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" target="_blank"> &nbsp; <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="javascript" width="40" height="40"/> &nbsp; </a> 
+<a href="https://www.flutterflow.io/" target="_blank"> &nbsp; <img src="https://logowik.com/content/uploads/images/flutterflow2312.logowik.com.webp" alt="javascript" width="40" height="40"/> &nbsp; </a> 
+<a href="https://firebase.google.com/docs/flutter/setup?platform=ios" target="_blank"> &nbsp; <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="javascript" width="40" height="40"/> &nbsp; </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp; </a> 
 
 
@@ -61,10 +57,6 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyash0102&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=suyash0102&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
 </table>
 
  <br>

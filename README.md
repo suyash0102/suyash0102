@@ -23,20 +23,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nishtha-saraswat/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash0102" height="30" width="40" /> &nbsp; </a>
+<a href="https://www.linkedin.com/in/suyash-dahake/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash0102" height="30" width="40" /> &nbsp; </a>
 <a href="https://github.com/suyash0102" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="suyash-dahake" height="30" width="40" /> &nbsp; </a>
-<a href="#" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suyash-dahake" height="30" width="40" /> &nbsp; </a>
-<a href="#" target="blank"> &nbsp; <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nicks" height="30" width="40" /> &nbsp; </a>
 <a href="https://suyashdahake410.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suyash-dahake" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/nishthasaraswat1" target="blank"></a>
 </p>
  
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stacks:</h3>
 
 <p align="left">
 
 <code><img src="https://user-images.githubusercontent.com/75165587/132661148-e0ab1572-56bf-4f24-b77e-df45b313c9c4.png" alt="git" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="git" width="40" height="40"/></code>
+<a href="https://logowik.com/content/uploads/images/flutterflow2312.logowik.com.webp" target="_blank"> &nbsp; <img src="https://logowik.com/content/uploads/images/flutterflow2312.logowik.com.webp" alt="javascript" width="40" height="40"/> &nbsp; </a> 
+<a href="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" target="_blank"> &nbsp; <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="javascript" width="40" height="40"/> &nbsp; </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp; </a> 
 
 
